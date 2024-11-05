@@ -20,8 +20,6 @@ class ShoppingList:
 # Write your solution here:
 # -------------------------
 
-
-# Returns the total amounts 
 def total_units(my_list: ShoppingList):
     total = 0
     for i in range(1, my_list.number_of_items()+1):
