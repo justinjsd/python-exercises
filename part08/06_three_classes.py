@@ -9,7 +9,7 @@ class Customer:
     def __init__(self, id: str, balance: str, discount: str):
         self.id = id
         self.balance = balance
-        self.discount =discount
+        self.discount = discount
 
 class Cable:
     def __init__(self, model: str, length: float, max_speed: int, bidirectional: bool):
