@@ -19,6 +19,10 @@ This MOOC is designed for Python users looking to level up their expertise by co
 
 ---
 
+## 📊 Progress: 8/13
+
+✅ 8 / ⏳ 13
+
 ## 📂 Repository Structure
 
 Here's an overview of the folders and files you’ll find in this repository:
