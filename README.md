@@ -44,6 +44,11 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Using the debugger 🐞
 - Solving programming challenges 💡
 
+## Part 8: 🌟 Classes  
+- Classes and objects 🏛️  
+- Constructors 🏗️  
+- Working with attributes and methods ✨ 
+
 ---
 
 ## 📊 Progress: 8/14
