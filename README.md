@@ -1,6 +1,6 @@
 # 🐍 Python Exercises
 
-Welcome to **Python Advanced** – a repository where I track my progress and share my learnings from the [Python Advanced MOOC](https://www.mooc.fi/en/) provided by the University of Helsinki! This course dives into advanced Python topics, helping to strengthen skills in topics like functional programming, concurrency, data structures, and more.
+Welcome to **Python Exercises ** – a repository where I track my progress and share my learnings from the [Python MOOC](https://www.mooc.fi/en/) provided by the University of Helsinki! This course dives into advanced Python topics, helping to strengthen skills in topics like functional programming, concurrency, data structures, and more.
 
 ---
 
@@ -19,15 +19,15 @@ This MOOC is designed for Python users looking to level up their expertise by co
 
 ---
 
-## 📊 Progress: 8/13
+## 📊 Progress: 8/14
 
-✅ 8 / ⏳ 13
+✅ 8 / ⏳ 14
 
 ## 📂 Repository Structure
 
 Here's an overview of the folders and files you’ll find in this repository:
 
-- **`part[8-13]/`**: 📜 Python scripts showcasing key concepts and additional practice problems for the advanced python course.
+- **`part[8-14]/`**: 📜 Python scripts showcasing key concepts and additional practice problems for the advanced python course.
 
 ---
 
@@ -41,7 +41,7 @@ Here's an overview of the folders and files you’ll find in this repository:
 
 ## 📚 Resources
 
-- [University of Helsinki – Python Advanced MOOC](https://www.mooc.fi/en/)
+- [University of Helsinki – Python MOOC](https://www.mooc.fi/en/)
 - [Python Documentation](https://docs.python.org/3/)
 - [Real Python](https://realpython.com/) – In-depth tutorials and guides
   
