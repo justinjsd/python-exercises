@@ -9,13 +9,38 @@ Welcome to **Python Exercises ** – a repository where I track my progress and 
 This MOOC is designed for Python users looking to level up their expertise by covering advanced topics and best practices. Whether you're building software or working on data science, the skills covered in this course are crucial for tackling complex problems efficiently and effectively.
 
 ### Topics Covered:
-- 🧩 Functional programming
-- 🚦 Concurrency and parallelism
-- 🔄 Iterators, generators, and comprehensions
-- 📏 Advanced data structures
-- 🛠️ Decorators and context managers
-- 💾 File handling and I/O operations
-- 📦 Object-oriented and modular design principles
+
+# Introduction to Programming (Parts 1-7)
+
+## Part 1: 🎉 Getting Started with Programming
+- Basics of Python 🐍
+- Writing your first programs 💻
+- Input and output 📥📤
+
+## Part 2: 🔢 Variables and Data Types
+- Integers and floats 🔢
+- Strings and booleans 💬
+- Basic operations ➗✖️
+
+## Part 3: 💡 Control Flow
+- Conditionals (`if`, `else`) 🔀
+- Loops (e.g., `for`, `while`) 🔄
+
+## Part 4: 🎨 Functions and Modular Programming
+- Defining functions 🛠️
+- Parameters and returns ↔️
+
+## Part 5: 🗃️ Working with Collections
+- Lists, dictionaries, and tuples 📋
+- Iteration and indexing 🔍
+
+## Part 6: 🔍 Searching and Sorting
+- Basic algorithms for searching 🔎
+- Sorting techniques 📊
+
+## Part 7: 🧩 Debugging and Problem Solving
+- Using the debugger 🐞
+- Solving programming challenges 💡
 
 ---
 
