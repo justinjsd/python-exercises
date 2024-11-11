@@ -1,6 +1,6 @@
 # 🐍 Python Exercises
 
-Welcome to **Python Exercises ** – a repository where I track my progress and share my learnings from the [Python MOOC](https://www.mooc.fi/en/) provided by the University of Helsinki! This course dives into advanced Python topics, helping to strengthen skills in topics like functional programming, concurrency, data structures, and more.
+Welcome to **Python Exercises** – a repository where I track my progress and share my learnings from the [Python MOOC](https://www.mooc.fi/en/) provided by the University of Helsinki! This course dives into advanced Python topics, helping to strengthen skills in topics like functional programming, concurrency, data structures, and more.
 
 📝 **Note**: You can find all the solutions inside the `src` file in each solution folder. 📂✨
 
