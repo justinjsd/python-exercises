@@ -59,6 +59,7 @@ This MOOC is designed for Python users looking to level up their expertise by co
 
 Here's an overview of the folders and files you’ll find in this repository:
 
+- **`part[8-14]/`**: 📜 Python scripts showcasing key concepts and additional practice problems for the basic python course.
 - **`part[8-14]/`**: 📜 Python scripts showcasing key concepts and additional practice problems for the advanced python course.
 
 ---
