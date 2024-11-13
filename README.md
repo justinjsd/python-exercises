@@ -47,8 +47,11 @@ This MOOC is designed for Python users looking to level up their expertise by co
 ## Part 8: 🌟 Classes  
 - Classes and objects 🏛️  
 - Constructors 🏗️  
-- Working with attributes and methods ✨ 
+- Working with attributes and methods ✨
 
+## Part 9: Object-Oriented Programming 🏗️  
+- Objects and References 🧱  
+- Encapsulation 🔒
 ---
 
 ## 📊 Progress: 8/14
