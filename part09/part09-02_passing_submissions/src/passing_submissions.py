@@ -9,3 +9,20 @@ class ExamSubmission:
         return f'ExamSubmission (examinee: {self.examinee}, points: {self.points})'
 
 # # WRITE YOUR SOLUTION HERE:
+def passed(subs: list, lowest_passing: int):
+    passing_list = []
+    for sub in subs:
+        if sub.points >= lowest_passing:
+            passing_list.append(sub)
+    return passing_list
+
+if __name__ == "__main__":
+    s1 = ExamSubmission("Peter", 12)
+    s2 = ExamSubmission("Pippa", 19)
+    s3 = ExamSubmission("Paul", 15)
+    s4 = ExamSubmission("Phoebe", 9)
+    s5 = ExamSubmission("Persephone", 17)
+
+    passes = passed([s1, s2, s3, s4, s5], 15)
+    for passing in passes:
+        print(passing)
