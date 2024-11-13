@@ -49,7 +49,7 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Constructors 🏗️  
 - Working with attributes and methods ✨
 
-## Part 9: Object-Oriented Programming 🏗️  
+## Part 9: 🏗️ Object-Oriented Programming   
 - Objects and References 🧱  
 - Encapsulation 🔒
 ---
