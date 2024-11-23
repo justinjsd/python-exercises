@@ -3,6 +3,7 @@
 class ListHelper:
 
     # Function to get the frequency of the elements of the list
+    # using staticmethod so that it can be accessed by other functions of the class
     @staticmethod
     def frequency(my_list: list):
         frequency = {}
