@@ -88,3 +88,22 @@ class CargoHold:
         else:
             suitcases_str = 'suitcases'
         return f'{len(self.__suitcases)} {suitcases_str}, space for {self.__max_weight-self.__weight()} kg'
+        
+if __name__ == "__main__":
+    book = Item("ABC Book", 2)
+    phone = Item("Nokia 3210", 1)
+    brick = Item("Brick", 4)
+
+    adas_suitcase = Suitcase(10)
+    adas_suitcase.add_item(book)
+    adas_suitcase.add_item(phone)
+
+    peters_suitcase = Suitcase(10)
+    peters_suitcase.add_item(brick)
+
+    cargo_hold = CargoHold(1000)
+    cargo_hold.add_suitcase(adas_suitcase)
+    cargo_hold.add_suitcase(peters_suitcase)
+
+    print("The suitcases in the cargo hold contain the following items:")
+    cargo_hold.print_items()
