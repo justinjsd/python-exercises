@@ -44,6 +44,8 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Using the debugger 🐞
 - Solving programming challenges 💡
 
+# Advanced Programming (Parts 9-14)
+
 ## Part 8: 🌟 Classes  
 - Classes and objects 🏛️  
 - Constructors 🏗️  
