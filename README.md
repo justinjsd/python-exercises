@@ -54,9 +54,9 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Encapsulation 🔒
 ---
 
-## 📊 Progress: 8/14
+## 📊 Progress: 9/14
 
-✅ 8 / ⏳ 14
+✅ 9 / ⏳ 14
 
 ## 📂 Repository Structure
 
