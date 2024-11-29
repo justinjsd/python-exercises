@@ -12,3 +12,11 @@ class SuperGroup():
         self._name = name
         self._location = location
         self._members = []
+
+    @property
+    def name(self):
+        return self._name
+    
+    @property
+    def location(self):
+        return self._location
