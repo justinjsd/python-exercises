@@ -55,7 +55,7 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Objects and References 🧱  
 - Encapsulation 🔒
 
-## Part 10: 🏗️ Classes and OOP Techniques  
+## Part 10: 🧑‍🏫 Classes and OOP Techniques  
 - Class Hierarchies 🌳  
 - Access Modifiers 🔒
 - Building Larger Applications 📱
