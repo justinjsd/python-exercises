@@ -12,6 +12,9 @@ class SimpleDate:
     def __eq__(self, value):
         return self.__str__() == value.__str__()
     
+    def __ne__(self, value):
+        return self.__str__() != value.__str__()
+    
 if __name__ == "__main__":
     d1 = SimpleDate(4, 10, 2020)
     d2 = SimpleDate(28, 12, 1985)
