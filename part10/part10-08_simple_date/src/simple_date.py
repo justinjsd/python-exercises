@@ -14,6 +14,16 @@ class SimpleDate:
     
     def __ne__(self, value):
         return self.__str__() != value.__str__()
+
+    def __gt__(self, value):
+        if self.year > value.year:
+            return True
+        elif self.year == value.year and self.month > value.month:
+            return True
+        elif self.month == value.month and self.date > value.date:
+            return True
+        else: 
+            return False
     
 if __name__ == "__main__":
     d1 = SimpleDate(4, 10, 2020)
