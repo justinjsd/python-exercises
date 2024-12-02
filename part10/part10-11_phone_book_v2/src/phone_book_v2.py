@@ -102,5 +102,3 @@ class PhoneBookApplication:
 # when testing, no code should be outside application except the following:
 application = PhoneBookApplication()
 application.execute()
-
-# Random comment to correct commit message
