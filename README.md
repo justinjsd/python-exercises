@@ -61,9 +61,9 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Building Larger Applications 📱
 ---
 
-## 📊 Progress: 9/14
+## 📊 Progress: 10/14
 
-✅ 9 / ⏳ 14
+✅ 10 / ⏳ 14
 
 ## 📂 Repository Structure
 
