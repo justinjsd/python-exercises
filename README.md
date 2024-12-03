@@ -59,6 +59,12 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Class Hierarchies 🌳  
 - Access Modifiers 🔒
 - Building Larger Applications 📱
+
+## Part 11: Advanced Python Concepts
+-- List Comprehensions 📝
+-- More Comprehensions 🧩
+-- Recursion 🔁
+
 ---
 
 ## 📊 Progress: 10/14
