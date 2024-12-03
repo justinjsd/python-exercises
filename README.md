@@ -61,9 +61,9 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Building Larger Applications 📱
 
 ## Part 11: Advanced Python Concepts
--- List Comprehensions 📝
--- More Comprehensions 🧩
--- Recursion 🔁
+- List Comprehensions 📝
+- More Comprehensions 🧩
+- Recursion 🔁
 
 ---
 
