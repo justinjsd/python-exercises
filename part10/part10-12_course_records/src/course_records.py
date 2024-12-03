@@ -13,7 +13,7 @@ class Course:
     def __str__(self):
         return f"{self.__course} ({self.__credits} cr) grade {self.__grade}"
 
-class Courses:
+class CourseRecord:
     def __init__(self):
         self.__courses = {}
 
@@ -51,7 +51,7 @@ class Courses:
 
 class CourseRecordApplication:
     def __init__(self):
-        self.__courses = Courses()
+        self.__courses = CourseRecord()
 
     def help(self):
         print("1 add course")
