@@ -13,7 +13,6 @@ class Course:
     def __str__(self):
         return f"{self.__course} ({self.__credits} cr) grade {self.__grade}"
 
-
 class Courses:
     def __init__(self):
         self.__courses = {}
@@ -49,7 +48,6 @@ class Courses:
 
         for grade, count in grade_dict.items():
             print(f"{grade}: {'x' * count}")
-
 
 class CourseRecordApplication:
     def __init__(self):
