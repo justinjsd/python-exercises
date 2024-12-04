@@ -1,4 +1,7 @@
 # WRITE YOUR SOLUTION HERE:
+
+from math import *
+
 class ExamResult:
     def __init__(self, name: str, grade1: int, grade2: int, grade3: int):
         self.name = name
@@ -9,3 +12,6 @@ class ExamResult:
     def __str__(self):
         return (f'Name:{self.name}, grade1: {self.grade1}' +
             f', grade2: {self.grade2}, grade3: {self.grade3}')
+
+def best_results(results: list):
+    return [max(result.grade1, result.grade2, result.grade3) for result in results]
