@@ -65,6 +65,10 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - More Comprehensions 🧩
 - Recursion 🔁
 
+## Part 11: Functional Programming, Generators
+- Functional Programming 🧠
+- Generators ⚙️
+
 ---
 
 ## 📊 Progress: 11/14
