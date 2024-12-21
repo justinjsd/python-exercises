@@ -60,14 +60,14 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Access Modifiers 🔒
 - Building Larger Applications 📱
 
-## Part 11: Advanced Python Concepts
+## Part 11: 🧠 Advanced Python Concepts
 - List Comprehensions 📝
 - More Comprehensions 🧩
 - Recursion 🔁
 
-## Part 12: Functional Programming, Generators
+## Part 12: 🔄 Functional Programming, Generators
 - Functional Programming 🧠
-- Generators ⚙️
+- Generators 🔄
 
 ---
 
