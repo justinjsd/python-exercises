@@ -18,4 +18,8 @@ def most_points(ballplayers: list):
     ballplayer = max(ballplayers, key=lambda bp: bp.goals + bp.passes)
     return (ballplayer.name, ballplayer.number)
 
+def least_minutes(ballplayers: list):
+    ballplayer = min(ballplayers, key=lambda bp: bp.minutes)
+    return ballplayer
+
 # Write your solution here
