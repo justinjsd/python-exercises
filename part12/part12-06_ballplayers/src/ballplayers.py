@@ -14,4 +14,8 @@ def most_goals(ballplayers: list):
     ballplayer = max(ballplayers, key=lambda bp: bp.goals)
     return ballplayer.name
 
+def most_points(ballplayers: list):
+    ballplayer = max(ballplayers, key=lambda bp: bp.goals + bp.passes)
+    return (ballplayer.name, ballplayer.number)
+
 # Write your solution here
