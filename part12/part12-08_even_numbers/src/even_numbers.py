@@ -2,6 +2,10 @@
 
 def even_numbers(num: int, end: int):
     while num <= end:
+        if num % 2 != 0:
+            num += 1
+        else:
+            None
         yield num
         num += 2
 
