@@ -15,6 +15,12 @@ def all_vowels(my_string: str):
             return False
     return True
 
+def time_of_day(my_string: str):
+    if re.search("^([0-1][0-9]|[2][0-4]):[0-5][0-9]:[0-5][0-9]$", my_string):
+        return True
+    else:
+        return False
+
 if __name__ == "__main__":
     print(is_dotw("Mon"))
     print(is_dotw("Fri"))
