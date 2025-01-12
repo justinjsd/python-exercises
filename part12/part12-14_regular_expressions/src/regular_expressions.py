@@ -6,6 +6,14 @@ def is_dotw(my_string: str):
         return True
     else:
         return False
+    
+def all_vowels(my_string: str):
+    for a in my_string:
+        if re.search("[aeiouAEIOU]", a):
+            continue
+        else:
+            return False
+    return True
 
 if __name__ == "__main__":
     print(is_dotw("Mon"))
