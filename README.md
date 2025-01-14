@@ -69,11 +69,16 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Functional Programming 🧠
 - Generators 🔄
 
+## Part 12: 🔄 Pygame
+- Pygame 🧠
+- Animation 🔄
+- Events 🔄
+
 ---
 
-## 📊 Progress: 11/14
+## 📊 Progress: 12/14
 
-✅ 11 / ⏳ 14
+✅ 12 / ⏳ 14
 
 ## 📂 Repository Structure
 
