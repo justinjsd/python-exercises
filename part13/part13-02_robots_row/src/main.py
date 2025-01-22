@@ -12,7 +12,7 @@ width = robot.get_width()
 
 window.fill((0, 0, 0))
 for i in range(0,10):
-    window.blit(robot,(75+width*i,200))
+    window.blit(robot,(75+width*i,100))
 pygame.display.flip()
 
 while True:
