@@ -70,6 +70,7 @@ This MOOC is designed for Python users looking to level up their expertise by co
 - Generators 🔄
 
 ## Part 13: 🎮 Pygame
+- Basic Pygame functions 🎮
 - Animation 🎞️
 - Events 📢
 
