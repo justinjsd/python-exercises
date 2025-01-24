@@ -26,6 +26,7 @@ while True:
     
     x1 += velocity1
     x2 += velocity2
+    
     if velocity1 > 0 and x1+robot1.get_width() >= 640:
         velocity1 = -velocity1
     if velocity1 < 0 and x1 <= 0:
