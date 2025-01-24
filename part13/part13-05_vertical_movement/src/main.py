@@ -1,5 +1,3 @@
-# WRITE YOUR SOLUTION HERE:
-
 import pygame
 
 pygame.init()
